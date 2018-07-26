@@ -1,5 +1,6 @@
 # Getting-Started-With-DeepLearning4j-on-Android
-    Hi Reader, it is great you are here again! this is just a quick follow up to my previous article on getting started with deeplearning4j. So with the previous article I assume you must have been able to train a model and you would like to have that model run live within your android application.
+
+Hi Reader, it is great you are here again! this is just a quick follow up to my previous article on getting started with deeplearning4j. So with the previous article I assume you must have been able to train a model and you would like to have that model run live within your android application.
 
 ## Quick Start
 
@@ -13,7 +14,8 @@
 ```
 
 ## Slow Start
-    The next thing to do would be to have your saved model stored inside your resources directory in a raw folder(cr8 one if it does not exist).
+
+The next thing to do would be to have your saved model stored inside your resources directory in a raw folder(cr8 one if it does not exist).
     
 <img src="shots/raw_folder_demo.png" width="49%">
     
@@ -37,7 +39,7 @@ images from the camera as a Bitmap. So having trained the model on your PC, clou
 and you would like to pass your Bitmap frames through the network to determine if shes in the mood or not. 
 You could implement my [`BinTrasher`](https://github.com/54LiNKeR/BinTrasher) library to quickly scale the Bitmap to an INDArray and feed it to the network. e.g.
 
- 
+> if your reading this @tm I am still working on this thread
 
 
 
