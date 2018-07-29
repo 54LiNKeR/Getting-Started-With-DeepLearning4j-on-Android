@@ -21,7 +21,7 @@ The next thing to do would be to have your saved model stored inside your resour
     
 <img src="shots/raw_folder_demo.png" width="49%">
     
-As you can see above the name of my model is 'stupidAI.wise'. Inorder to load the model we have to get dirty with some little Java
+As you can see above the name of my model is **`stupidAI.wise`**. Inorder to load the model we have to get dirty with some little Java
 
 > **JAVA**
 
