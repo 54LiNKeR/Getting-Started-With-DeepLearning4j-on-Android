@@ -1,4 +1,6 @@
-# Getting-Started-With-DeepLearning4j-on-Android
+ <img src="https://github.com/54LiNKeR/54LiNKeR.github.io/blob/master/shots/LiNKeR.png" width="35%">
+ 
+ # Getting-Started-With-DeepLearning4j-on-Android
 
 Hi Reader, it is great you are here again! this is just a quick follow up to my previous article on getting started with deeplearning4j. So with the previous article I assume you must have been able to train a model and you would like to have that model run live within your android application.
 
